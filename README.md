@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dayanand S Alabal</h1>
+<h1 align="center">Hi 👋, I'm Dayanand</h1>
 <h3 align="center">A passionate MERN stack developer and DataScience Student from India</h3>
 
 - 📫 How to reach me **dayanandalabal@gmail.com**
