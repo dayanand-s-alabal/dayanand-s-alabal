@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Springboot**
 
-- 💬 Ask me about **Hi, I am Dayanand, currently pursuing my B.Tech in RV University.**
+- 💬 Ask me about **Java Development, Data Analytics**
 
 - 📫 How to reach me **dayanandalabal@gmail.com**
 
